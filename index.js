@@ -72,18 +72,22 @@ var even_numbers = [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20];
 /**
 * #6a Arithmetic
 */
-
-
+var sum = 5 + 5;
+var total = 5 + 5 * 12 - 16;
 
 /**
 * #6b Comparisons & Logic
 */
+var more_money = 10000 > 10;
 
 
 
 /**
 * #6c Assignments
 */
+var total_calculation = 7/7;
+total_calculation += 10;
+total_calculation -= 5;
 
 
 
