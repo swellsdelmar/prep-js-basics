@@ -65,6 +65,8 @@ var completedFridayPrep = null;
 * declare a variable named `even numbers` which is an Array. This Array contains numbers that
 * are considered 'even values'. Have at least ten even values in this array
 **/
+var 10 = 
+
 
 
 
